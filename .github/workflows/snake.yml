@@ -31,5 +31,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.repo_tok }}
+          GITHUB_TOKEN: ${{ secrets.REPO_TOK }}
         run: echo "My secret token is $MY_SECRET_TOKEN"
