@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">- 👋 Hi, I’m @HP-Harshit<br>- 👀 I’m interested in Coding and Design<br>- 🌱 Currently, I’m diving into advanced ML techniques, exploring neural networks, and experimenting with deep learning architectures. The thrill of discovering novel solutions keeps me motivated.<br>- 💞 I’m looking to collaborate on the projects with fellow enthusiasts, researchers, and industry professionals. Let’s create something remarkable together!<br>- 📫 Feel free to connect with me via email at or find me on LinkedIn</p>
+<p align="left">- 👋 Hi, I’m @HP-Harshit<br>- 👀 I’m interested in Coding and Design<br>- 🌱 Currently, I’m diving into advanced ML techniques, exploring neural networks, and experimenting with deep learning architectures. The thrill of discovering novel solutions keeps me motivated.<br>- 💞 I’m looking to collaborate on the projects with fellow enthusiasts, researchers, and industry professionals. Let’s create something remarkable together!<br>- 📫 Feel free to connect with me via email or find me on LinkedIn</p>
 
 ###
 
