@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is Harshit and I'm a front-end developer, from the city of Lakes.</h2>
+<h2 align="left">Hi 👋! My name is Harshit and I'm a Java Full-Stack developer, from the city of Lakes.</h2>
 
 ###
 
